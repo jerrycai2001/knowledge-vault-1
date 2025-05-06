@@ -1,0 +1,5 @@
+domain,algorithm,compute_hours,memory_GB,performance_score
+protein modeling,AlphaFold,4000,128,0.92
+neural signal processing,RNN,50,16,0.74
+robotics control modeling,PPO,200,64,0.85
+strategy/defense simulations,Monte Carlo Tree Search,1500,256,0.81
